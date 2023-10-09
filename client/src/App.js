@@ -1,11 +1,12 @@
+import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Add from "./pages/Add";
-import Tasks from "./pages/Tasks";
-import Update from "./pages/Update";
+import Add from "./Add";
+import Tasks from "./Tasks";
+import Update from "./Update";
 
 function App() {
   return (
-    <div className="app">
+    <div className="">
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Tasks />} />
