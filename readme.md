@@ -2,7 +2,7 @@ Preview:
 
 ![notes-website](https://github.com/aryangorwade/notes-website/assets/59902282/2758cb76-e932-466f-b6dd-6cd7b985ed88)
 
-This website isa  full-stack CRUD website built using React,js, Node,js, Express.js, and mySQL. 
+This website is a full-stack CRUD website built using React,js, Node,js, Express.js, and mySQL. 
 
 
 Instructions to set up: 
